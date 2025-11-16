@@ -1,0 +1,55 @@
+[
+  {
+    "codigo": 1,
+    "nombre": "juanito ",
+    "apellido": "campo",
+    "numeros": [
+      {
+        "codigo": 1,
+        "numero": "1232154",
+        "tipo": {
+          "codigo": 1,
+          "nombre": "amigos "
+        }
+      },
+      {
+        "codigo": 2,
+        "numero": "1234123412341234",
+        "tipo": {
+          "codigo": 1,
+          "nombre": "amigos "
+        }
+      }
+    ]
+  },
+  {
+    "codigo": 2,
+    "nombre": "julien",
+    "apellido": "mamorta",
+    "numeros": []
+  },
+  {
+    "codigo": 3,
+    "nombre": "vector",
+    "apellido": "silvano",
+    "numeros": []
+  },
+  {
+    "codigo": 4,
+    "nombre": "abran",
+    "apellido": "melano",
+    "numeros": []
+  },
+  {
+    "codigo": 5,
+    "nombre": "rosa",
+    "apellido": "melano",
+    "numeros": []
+  },
+  {
+    "codigo": 6,
+    "nombre": "keren ",
+    "apellido": "milano",
+    "numeros": []
+  }
+]
